@@ -9,7 +9,7 @@ skip: getting a model to run outside a notebook.
 
 - Building — the first end-to-end vision project, data through deployment
 - Learning — model quantization, edge inference, evaluation that isn't just mAP
-- Writing — `gumozyt` <!-- TODO: 博客完整链接，拿到后改成 [gumozyt](url) -->
+- Writing — [gumozyt](https://blog.csdn.net/gumozyt) on CSDN
 
 **Contact** — [GitHub](https://github.com/13shisan53) · Email <!-- TODO -->
 
@@ -26,7 +26,7 @@ skip: getting a model to run outside a notebook.
 
 - 在做 — 第一个端到端视觉项目，从数据到部署
 - 在学 — 模型量化、边缘推理，以及不只是 mAP 的评估方法
-- 在写 — `gumozyt`
+- 在写 — [gumozyt](https://blog.csdn.net/gumozyt) · CSDN
 
 **联系** — [GitHub](https://github.com/13shisan53) · 邮箱 <!-- TODO -->
 
